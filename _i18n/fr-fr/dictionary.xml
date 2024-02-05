@@ -721,4 +721,8 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="ae809759e1518d5c4c2019b9c03f15a1" category="list-text">À partir de ONTAP 9.12.1P2, la limite est de 128 To. Dans ONTAP 9.11.1 et les versions antérieures, la limite est de 16 To.</block>
   <block id="363a2a1557561115c9aab27b368391e0" category="list-text">La création de volume FlexVol jusqu'à une taille maximale de 300 Tio est prise en charge avec System Manager à partir de Cloud Volumes ONTAP 9.12.1 P2.</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300 TO</block>
+  <block id="970d5c9706f6ab7714134e23fcf688b5" category="section-title">9.12.1 P9 (5 février 2024)</block>
+  <block id="cc166601884aa0c57bb02902cbf3e2ad" category="paragraph">Le correctif 9.12.1 P9 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
+  <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">Consultez la liste des bugs corrigés dans le correctif P9</block>
+  <block id="d0b2ca8271dd8bcbce366784bf744158" category="paragraph"><block ref="a62fdbf622c208963a49bc988200ee74" category="inline-link-macro-rx"></block> (Identifiant du site du support NetApp requis).</block>
 </blocks>
